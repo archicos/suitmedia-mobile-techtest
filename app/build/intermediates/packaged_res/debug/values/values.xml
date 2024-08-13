@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="teal_dark">#004A43</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Suitmedia</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/teal_dark</item>
+        <item name="colorPrimaryDark">@color/teal_dark</item>
+        <item name="colorAccent">@color/teal_dark</item>
+    </style>
+    <style name="Base.Theme.Suitmedia" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Suitmedia" parent="Base.Theme.Suitmedia"/>
+</resources>

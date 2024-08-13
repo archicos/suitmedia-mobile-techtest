@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color teal_dark
+color white
+drawable android_blue
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id avatarImageView
+id checkButton
+id chooseUserButton
+id emailTextView
+id nameEditText
+id nameTextView
+id nextButton
+id palindromeEditText
+id profilePicture
+id selectedUserTextView
+id userNameTextView
+id usersRecyclerView
+id welcomeTextView
+layout activity_main
+layout activity_second
+layout activity_third
+layout item_user
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style AppTheme
+style Base.Theme.Suitmedia
+style Theme.Suitmedia
+xml backup_rules
+xml data_extraction_rules
